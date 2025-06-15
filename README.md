@@ -29,3 +29,7 @@ To monitor the performance and efficiency of call center agents by tracking key 
 
 ### 🧩 Use Case:
 This dashboard is designed for **operations managers** and **support leads** to evaluate call center performance, agent productivity, and customer experience trends, enabling data-driven decisions and workflow optimizations.
+
+## 📸 Dashboard Preview
+![image](https://github.com/user-attachments/assets/6d2c4838-fb4e-4e1f-a193-9a0b07c014ed)
+
